@@ -7,5 +7,5 @@ Implementation of __Lawler's__ 3-colorability test
 
 Asymptotic: 
 ```math
-O(mn\cdot 3^{n/3}), \ \ \ \ where\ \ \ \ \sqrt[3]{3} \approx1,44225
+O^*(3^{n/3}), \ \ \ \ where\ \ \ \ \sqrt[3]{3} \approx 1,44225
 ```
